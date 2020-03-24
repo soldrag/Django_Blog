@@ -1,2 +1,2 @@
-# Django_Blog
+# Django_Vote
 Django tutrial project
